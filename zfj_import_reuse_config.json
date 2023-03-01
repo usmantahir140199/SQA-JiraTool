@@ -1,0 +1,23 @@
+{
+    "selectedRows": [],
+    "fieldMaps": {
+        "summary": "Test Summary",
+        "id": "External id",
+        "components": "Component",
+        "description": "Description",
+        "customfield_10020": "Sprint",
+        "customfield_10032": "jira-customfield-checkbox",
+        "fixVersions": "Version",
+        "priority": "Priority",
+        "customfield_10014": "Epic link",
+        "labels": "Labels",
+        "assignee": "Assigned To",
+        "stepAction": "Step",
+        "stepExpectedResults": "Test Data",
+        "stepData": "Expected Result",
+        "issueLinkType": "Issue Link Type",
+        "issuesToLink": "Issues Key To Link",
+        "comments": "Comments"
+    },
+    "updatedColumnValue": {}
+}
